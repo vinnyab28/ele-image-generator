@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ele-image-generator/static/css/main.cd3352d4.css",
+    "main.js": "/ele-image-generator/static/js/main.b1b41dc7.js",
+    "static/js/787.3b626a93.chunk.js": "/ele-image-generator/static/js/787.3b626a93.chunk.js",
+    "static/media/logo.svg": "/ele-image-generator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ele-image-generator/index.html",
+    "main.cd3352d4.css.map": "/ele-image-generator/static/css/main.cd3352d4.css.map",
+    "main.b1b41dc7.js.map": "/ele-image-generator/static/js/main.b1b41dc7.js.map",
+    "787.3b626a93.chunk.js.map": "/ele-image-generator/static/js/787.3b626a93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd3352d4.css",
+    "static/js/main.b1b41dc7.js"
+  ]
+}
