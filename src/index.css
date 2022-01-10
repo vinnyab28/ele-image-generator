@@ -3,58 +3,8 @@ body {
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	background-color: #c8a2c8;
 }
 
 code {
 	font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
-}
-
-header {
-	text-align: center;
-	width: 100%;
-	background: #750775;
-	border-radius: 0 0 7px 7px;
-	color: white;
-}
-
-header h1 {
-	margin: 0;
-	padding: 10px 0;
-}
-
-.image-container {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	margin-top: 50px;
-}
-
-.image-container img {
-	max-width: 80%;
-	border-radius: 10px;
-	box-shadow: 0px 0px 10px black;
-}
-
-.image-container p {
-	text-transform: capitalize;
-	font-style: italic;
-}
-
-.image-container button {
-	background: transparent;
-	color: #750575;
-	border: 2px solid #750575;
-	border-radius: 25px;
-	padding: 5px 10px;
-	font-weight: bold;
-	font-size: 18px;
-	transition: 0.35s all;
-	cursor: pointer;
-}
-
-.image-container button:active {
-	background: #750575;
-	color: white;
-	transform: translateY(3px);
 }
